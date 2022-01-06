@@ -2,6 +2,6 @@
 Hate
 and
 Love
-Purple
+Black
 and 
 Red
