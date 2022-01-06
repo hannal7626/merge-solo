@@ -1,7 +1,7 @@
 # merge-solo
-Happy
+Hate
 and
 Love
-Yellow
+Purple
 and 
 Red
