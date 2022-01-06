@@ -1,2 +1,7 @@
 # merge-solo
-Try Merging by Yourself Automatic Merge Merge Conflict
+Happy
+and
+Sad
+Yellow
+and 
+Blue
